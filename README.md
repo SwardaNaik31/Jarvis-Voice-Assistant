@@ -1,7 +1,7 @@
-# Jarvis-Voice-Assistant
-Voice assistant in Python
 
 # 🤖 Jarvis Voice Assistant
+Voice assistant in Python
+
 A Python voice assistant that can:
 - Play music from YouTube
 - Open websites (Google, Gmail, YouTube, Facebook, etc.)
