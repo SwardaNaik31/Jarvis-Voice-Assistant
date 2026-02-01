@@ -20,3 +20,9 @@ A Python voice assistant that can:
 - Google search fallback
 - Voice output
 
+## Required Libraries need to install
+pip install speechrecognition pyttsx3 pipwin
+pipwin install pyaudio
+
+## Run as
+python main.py
